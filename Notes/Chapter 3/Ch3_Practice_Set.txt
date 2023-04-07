@@ -1,0 +1,19 @@
+				Chapter-3 Practice Set
+
+Qus-1 Write a Java Program to convert a string to lowercase.
+
+Qus-2 Write a Java Program to replace spaces with underscore.
+
+Qus-3 Write a Java program to fill in a letter template which looks like Below:
+
+        letter = "Dear <|name|>, Thanks a lot"
+        Replace <|name|> with a String (Some Name)
+
+Qus-4 Write a Java Program to detect double and triple spaces in a string.
+
+Qus-5 Write a program to format the following letter using escape sequence Characters.
+
+        letter = "Dear Satish, Have a Nice Day. Thanks"
+
+
+
